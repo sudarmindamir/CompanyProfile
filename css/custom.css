@@ -1,0 +1,191 @@
+.btn-primary2 {
+    background: #FF9900;
+    border: 0;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.btn-primary2:hover {
+    background: rgb(219, 133, 4);
+    border: 0;
+    color: #d6ebfc;
+}
+
+.btn-primary3 {
+    background: #4DADF7;
+    border: 0;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.btn-primary3:hover {
+    background: #43a0e7;
+    border: 0;
+    color: #d6ebfc;
+}
+
+.btn-primary4 {
+    background: rgb(240, 62, 59);
+    border: 0;
+    font-size: 16px;
+    font-weight: normal;
+    color: #ffffff;
+}
+
+.btn-primary4:hover {
+    background: rgb(206, 42, 39);
+    border: 0;
+    color: #d6ebfc;
+}
+
+.btn-secondary {
+    background: none;
+    border: 1px solid #BCD0E5;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #173A56;
+}
+
+.btn-secondary:hover {
+    background: none;
+    border: 1px solid rgb(159, 177, 197);
+    color: #173A56;
+}
+
+.herosaham h1 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    color: #2F281E;
+}
+
+.herosaham p {
+    font-family: 'Poppins';
+    font-weight: 400;
+    color: #2F281E;
+}
+
+.tulisan h5 {
+    font-family: 'Poppins';
+    font-weight: 400;
+    color: #2F281E;
+}
+
+.hero2saham {
+    background-color: #e0f1ff;
+}
+
+.sertifikat {
+    background-color: #a7a7a7;
+}
+
+.hero2saham h5 {
+    color: rgb(219, 133, 4);
+    ;
+}
+
+.navbar-nav .nav-link {
+    color: #2F281E;
+}
+
+@media only screen and (max-width: 768px) {
+    .btn-primary,
+    .btn-secondary {
+        margin-top: 10px;
+        margin-left: 0 !important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .btn-primary,
+    .btn-secondary {
+        margin-top: 10px;
+        margin-left: 0 !important;
+    }
+}
+
+#about {
+    background-color: #575757;
+    color: white;
+}
+
+#kaki {
+    background-color: #04040c;
+    color: white;
+}
+
+.tanya .btn {
+    border: 0;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.tanyabaru .btn {
+    border: 0;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+#icon {
+    color: white;
+    font-size: 37px;
+    margin-top: none;
+    position: static;
+}
+
+#icon i.fa.fa-facebook-official {
+    margin-left: 15px;
+}
+
+#icon i.fa.fa-twitter-square {
+    margin-left: 15px;
+}
+
+#icon i.fa.fa-youtube-play {
+    margin-left: 13px;
+}
+
+#icon i.fa.fa-whatsapp {
+    margin-left: 15px;
+}
+
+#icon i.fa.fa-paper-plane-o {
+    margin-left: 10px;
+    font-size: 33px;
+}
+
+.card-footer {
+    background-color: #1b8bf5;
+}
+
+.card-footer h6 {
+    color: #ffffff;
+}
+
+.ayam a {
+    color: #ffffff;
+}
+
+.ayam a:hover {
+    color: #e0e0e0;
+}
+
+#slidekuh {
+    border: 0;
+}
+
+.tombolkuh {
+    padding-right: 0 !important;
+    margin-right: 0 !important;
+}
+
+.jumbo {
+    background-color: #555555;
+    color: #ffffff;
+}
